@@ -1,7 +1,7 @@
 Let's Encrypt Website
 =====================
 
-This is the repository for the main [Let's Encrypt website].
+This is the stunning repository for the main [Let's Encrypt website].
 
 This site is built with [Hugo]. It's entirely static, no server-side code/scripting.
 
@@ -23,7 +23,7 @@ npm install && npm run build && npm test
 
 Contributions welcome.
 
-# Troubleshooting with Hugo
+# Smart Troubleshooting with Hugo
 
 If you see the error:
 
